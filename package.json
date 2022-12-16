@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "discord-webhook-node": "^1.1.8",
+    "puppeteer": "^19.4.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.1"
+  }
+}
